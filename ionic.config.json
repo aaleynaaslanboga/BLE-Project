@@ -1,0 +1,7 @@
+{
+  "name": "Grad_Project_Final",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
